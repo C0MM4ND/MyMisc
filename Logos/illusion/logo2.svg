@@ -1,0 +1,38 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1000 1000">
+    <style>
+        .st2 {
+            fill: #464646;
+            fill-opacity: 0.2;
+        }
+        .st4 {
+            fill: #464646;
+            fill-opacity: 0.4;
+        }
+        .st6 {
+            fill: #464646;
+            fill-opacity: 0.6;
+        }
+        .st8 {
+            fill: #464646;
+            fill-opacity: 0.8;
+        }
+        .st9 {
+            fill: #464646;
+            fill-opacity: 0.9;
+        }
+
+    
+    </style>
+    
+    <path class="st6" d="M 75 250 L 75 750 L 250 925 L 250 75" />
+
+    <path class="st8" d="M 75 250 L 675 250 L 875 125  L 250 75" />
+    <path class="st8" d="M 675 250 L 875 125 L 875 250 L 675 300" />
+    
+    
+    <path class="st8" d="M 75 750 L 250 925  L 875 875 L 675 750" />
+    <path class="st8" d="M 875 875 L 675 750  L 675 700 L 875 750  " />
+
+    <path class="st9" d="M 75 250 L 75 750 L 250 925 L 75 500 L 250 75" />
+
+</svg>

@@ -1,0 +1,27 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 64 64">
+    <style>
+        .st0 {
+            fill: #353535;
+        }
+        .st1 {
+            fill: #464646;
+            fill-opacity: 0.8;
+        }
+        .st2 {
+            fill: #464646;
+            fill-opacity: 0.8;
+        }
+        .st3 {
+            fill: #353535;
+        }
+        .st_out {
+            fill: #232323;
+        }
+
+    </style>
+
+    <path class="st2" d="M 0 2 L 16 32 L 0 62" />
+    <path class="st2" d="M 2 0 L 8 12 L 64 0" />
+    <path class="st2" d="M 2 64 L 8 52 L 64 64" />
+
+</svg>
